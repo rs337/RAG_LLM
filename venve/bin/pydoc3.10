@@ -1,5 +1,0 @@
-#!/Users/robertsparks/Downloads/Llama_Index/venve/bin/python3.10
-
-import pydoc
-if __name__ == '__main__':
-    pydoc.cli()
